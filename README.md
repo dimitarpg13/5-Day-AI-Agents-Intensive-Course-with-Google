@@ -53,7 +53,7 @@ This section tracks the daily assignments and materials from the course.
     1.  [Explore new ways to add tools to extend what your agents can do](https://www.kaggle.com/code/kaggle5daysofai/day-2a-agent-tools)
     2.  [Explore best practices for tools, including MCP and long-running operations](https://www.kaggle.com/code/kaggle5daysofai/day-2b-agent-tools-best-practices)
 
-### Day 3 (Nov 11, 2025)
+### Day 3: Context Engineering: Sessions & Memory
 
   * **Topic:** Focuses on context engineering, the practice of dynamically assembling and managing information in an agent's context window. Defines Sessions (immediate history) and Memory (long-term persistence) to create stateful, personalized AI experiences.
   * **Whitepaper:** [Context Engineering: Sessions & Memory](https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google/blob/39fe09e63a28f244b75fd674c8b261c4a3730444/Day%203/whitepaper/Day_3.pdf)
@@ -62,18 +62,23 @@ This section tracks the daily assignments and materials from the course.
     1.  [Implement Sessions to manage immediate context in your agents](https://www.kaggle.com/code/divanshu22/day-3a-agent-sessions)
     2.  [Implement Memory to create long-term, personalized experiences](https://www.kaggle.com/code/divanshu22/day-3b-agent-memory)
 
-### Day 4 (Nov 12, 2025)
+### Day 4: Agent Quality
 
-  * **Topics** : Focuses on agent quality assurance using a holistic evaluation framework. Covers the technical foundation of Observability (Logs, Traces, Metrics) and scalable feedback loops like LLM-as-a-Judge and Human-in-the-Loop (HITL).
+  * **Topics:** Focuses on agent quality assurance using a holistic evaluation framework. Covers the technical foundation of Observability (Logs, Traces, Metrics) and scalable feedback loops like LLM-as-a-Judge and Human-in-the-Loop (HITL).
   * **Whitepaper:** [Agent Quality](https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google/blob/0ed65af3a6bfe8d17e281b1618233e9f6791cd75/Day%204/whitepaper/Day_4.pdf)
   * **Podcast:** [Unit 4 Summary (via NotebookLM)](https://www.youtube.com/watch?v=LFQRy-Ci-lk)
   * **Codelabs (Kaggle):**
     1.  [Implement observability to help you debug your agents.](https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google/blob/0ed65af3a6bfe8d17e281b1618233e9f6791cd75/Day%204/notebooks/day-4a-agent-observability.ipynb)
     2.  [Evaluate your agents.](https://github.com/sdivyanshu90/5-Day-AI-Agents-Intensive-Course-with-Google/blob/0ed65af3a6bfe8d17e281b1618233e9f6791cd75/Day%204/notebooks/day-4b-agent-evaluation.ipynb)
 
-### Day 5 (Nov 13, 2025)
+### Day 5: Prototype to Production
 
-  * Assignments and materials will be added upon release.
+  * **Topics:** Focuses on the operational lifecycle of AI agents (deployment, scaling, productionization) and transitioning prototypes to enterprise-grade solutions. Covers multi-agent systems using the Agent2Agent (A2A) Protocol and deploying agents to Vertex AI Agent Engine.
+  * **Whitepaper:** [Prototype to Production](https://www.kaggle.com/whitepaper-prototype-to-production)
+  * **Podcast:** [Unit 5 Summary (via NotebookLM)](https://www.youtube.com/watch?v=8Wyt9l7ge-g)
+  * **Codelabs (Kaggle):**
+    1.  [Explore how to use A2A Protocol to have agents interact with each other](https://www.kaggle.com/code/divanshu22/day-5a-agent2agent-communication)
+    2.  [\[Optional\] Deploy your agent to Agent Engine on Google Cloud.](https://www.kaggle.com/code/divanshu22/day-5b-agent-deployment)
 
 -----
 
