@@ -4,6 +4,10 @@
 
 * [Securing MCP-based Agent Workflows, Grigoris Ntousakis et al, 2025](https://github.com/dimitarpg13/5-Day-AI-Agents-Intensive-Course-with-Google/blob/main/articles/MCP_security/Securing_MCP-based_Agent_Workflows_Ntousakis_2025.pdf)
 
+* [Model Context Protocol (MCP): Understanding security risks and controls, Florencio Cano Gabarda, RedHat, July 2025](https://www.redhat.com/en/blog/model-context-protocol-mcp-understanding-security-risks-and-controls)
+
+* [The complete guide to MCP security: How to secure MCP servers & clients, Maria Paktiti, August 2025](https://workos.com/blog/mcp-security-risks-best-practices)
+
 * [How the ‘Confused Deputy Problem’ has made a comeback, Morey Haber, June 17, 2025](https://www.scworld.com/perspective/how-the-confused-deputy-problem-has-made-a-comeback)
 
 * [The Confused Deputy (or why capabilities might have been invented), Norm Hardy, 1988](https://github.com/dimitarpg13/5-Day-AI-Agents-Intensive-Course-with-Google/blob/main/articles/MCP_security/The_Confused_Deputy_why_capabilities_might_have_been_invented_Hardy_1988.pdf)
