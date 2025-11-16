@@ -1,5 +1,16 @@
 # Additional Resources on Agentic Workflows inspired by the Discussions in the class
 
+### Agent Tools with Gemini API
+
+* [Grounding with Google Search, Gemini API doc](https://ai.google.dev/gemini-api/docs/google-search)
+
+* [Code Execution, Gemini API doc](https://ai.google.dev/gemini-api/docs/code-execution)
+
+* [URL Context, Gemini API doc](https://ai.google.dev/gemini-api/docs/url-context)
+
+* [Computer Use, Gemini API doc](https://ai.google.dev/gemini-api/docs/computer-use)
+
+
 ## MCP Security and The Confused Deputy Problem
 
 * [Securing MCP-based Agent Workflows, Grigoris Ntousakis et al, 2025](https://github.com/dimitarpg13/5-Day-AI-Agents-Intensive-Course-with-Google/blob/main/articles/MCP_security/Securing_MCP-based_Agent_Workflows_Ntousakis_2025.pdf)
