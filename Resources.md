@@ -20,7 +20,7 @@
 
 * [GitHub MCP exploited: Accessing private repositories via MCP, HackerNews, 2025](https://news.ycombinator.com/item?id=44097390)
 
-<u>_Note on the Confused Deupty Problem_</u>
+<u>Note on the Confused Deupty Problem</u>
 
 The [confused deputy problem](https://en.wikipedia.org/wiki/Confused_deputy_problem) is a [privilege escalation vulnerability](https://en.wikipedia.org/wiki/Privilege_escalation) where a program (the "deputy") is tricked by a less-privileged entity into misusing its authority to perform an action it shouldn't. In the context of Model Context Protocol (MCP), this often happens when an MCP server, which has legitimate access to a user's resources (the deputy), is tricked by an attacker into executing commands or accessing data on the attacker's behalf. 
 
